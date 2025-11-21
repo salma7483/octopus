@@ -3,4 +3,4 @@
 #name
 I'm Salma and I have a twin.
 
-elephants are cute, but dolphins are not. 
+Elephants are cute, but dolphins are not. 
