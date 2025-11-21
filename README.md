@@ -1,3 +1,4 @@
 # octopus
 
-my name is Salma and I have a twin
+#name
+I'm Salma and I have a twin.
